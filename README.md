@@ -1,8 +1,22 @@
-# React + Vite
+# Video Playback Duration Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application designed to calculate the time required to watch a video at a specified playback speed. This tool helps users estimate how long it will take to watch a video based on the playback speed they choose.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Calculate Watch Time:** Enter the video duration and playback speed to determine the total watch time.
+- **React & React Router:** Built with React for the user interface and React Router DOM for navigation.
+- **Real-time Calculation:** Instant updates to results as input values are changed.
+
+## Live Demo
+
+You can view the live demo of this application [here](#) (link coming soon).
+
+## Installation
+
+To set up and run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/tejaspatil7903/Video-Playback-Time-Calculator.git
