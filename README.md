@@ -10,7 +10,7 @@ A React application designed to calculate the time required to watch a video at 
 
 ## Live Demo
 
-You can view the live demo of this application [here](#) (link coming soon).
+You can view the live demo of this application [here](https://video-playback-time-calculator-ashy.vercel.app/) (link coming soon).
 
 ## Installation
 
